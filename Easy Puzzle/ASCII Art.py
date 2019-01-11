@@ -31,6 +31,3 @@ for h1 in range(h):
         out_row.append(rows[h1][start_pos:start_pos + l])
 
     print(''.join(out_row))
-
-
-# test
